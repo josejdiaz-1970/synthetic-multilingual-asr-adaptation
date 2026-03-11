@@ -1,0 +1,6 @@
+venv/
+josejdiaz/data/
+*.wav
+*.pt
+*.bin
+__pycache__/
